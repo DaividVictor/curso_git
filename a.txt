@@ -3,4 +3,4 @@ Uma
 Atualização 
 De Arquivo.
 
-Alteração na "terceira branch". Aprendendo a unir branches.
+Alteração na "terceira branch". Aprendendo a unir branches. Unir a branch da linha 06 com a "segunda branch" via terminal. 
